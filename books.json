@@ -1,0 +1,86 @@
+{"books": [
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "img": "https://images.gr-assets.com/books/1388262316l/18241.jpg",
+    "description": "Widely considered the greatest novel ever written in any language, War and Peace has as its backdrop Napoleon’s invasion of Russia and at its heart three of the most memorable characters in literature: Pierre Bezukhov, a quixotic young man in search of spiritual joy; Prince Andrey Bolkonsky, a cynical intellectual transformed by the suffering of war; and the bewitching and impulsive Natasha Rostov, daughter of a count. As they seek fulfillment, fall in love, make mistakes, and become scarred by battle in different ways, these characters and their stories interweave with those of a huge cast, from aristocrats to peasants, from soldiers to Napoleon himself.",
+    "source": "https://www.goodreads.com/book/show/18241.War_and_Peace"
+  }, 
+  {
+    "title": "Vanity Fair",
+    "author": "William Makepeace Thackeray",
+    "img": "https://images.gr-assets.com/books/1344386439l/5797.jpg",
+    "description": "Vanity Fair: A Novel without a Hero is a novel by William Makepeace Thackeray, first published in 1847–48, satirizing society in early 19th-century Britain. The book's title comes from John Bunyan's allegorical story The Pilgrim's Progress, first published in 1678 and still widely read at the time of Thackeray's novel. Vanity fair refers to a stop along the pilgrim's progress: a never-ending fair held in a town called Vanity, which is meant to represent man's sinful attachment to worldly things. The novel is now considered a classic, and has inspired several film adaptations.",
+    "source": "https://www.goodreads.com/book/show/5797.Vanity_Fair"
+  },
+   {
+     "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "img": "https://images.gr-assets.com/books/1295381886l/10257528.jpg",
+    "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+    "source": "https://www.goodreads.com/book/show/10257528-to-kill-a-mockingbird"
+  },
+  {
+    "title": "A Song of Ice and Fire",
+    "author": "George R.R. Martin",
+    "img": "https://images.gr-assets.com/books/1388832609l/20111334.jpg",
+    "description": "George R. R. Martin's A Song of Ice and Fire series has become, in many ways, the gold standard for modern epic fantasy. Martin—dubbed the 'American Tolkien' by Time magazine—has created a world that is as rich and vital as any piece of historical fiction, set in an age of knights and chivalry and filled with a plethora of fascinating, multidimensional characters that you love, hate to love, or love to hate as they struggle for control of a divided kingdom.",
+    "source": "https://www.goodreads.com/book/show/9814682-a-song-of-ice-and-fire"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "img": "https://images.gr-assets.com/books/1327873635l/2998.jpg",
+    "description": "When orphaned Mary Lennox comes to live at her uncle's great house on the Yorkshire Moors, she finds it full of secrets. The mansion has nearly one hundred rooms, and her uncle keeps himself locked up. And at night, she hears the sound of crying down one of the long corridors. The gardens surrounding the large property are Mary's only escape. Then, Mary discovers a secret garden, surrounded by walls and locked with a missing key. One day, with the help of two unexpected companions, she discovers a way in. Is everything in the garden dead, or can Mary bring it back to life?",
+    "source": "https://www.goodreads.com/book/show/2998.The_Secret_Garden"
+  },
+  {
+    "title": "The Painter of Battles",
+    "author": " Arturo Pérez-Reverte",
+    "img": "https://images.gr-assets.com/books/1403605426l/1143742.jpg",
+    "description": "The internationally bestselling author of The Club Dumas and The Queen of the South delivers his most ambitious and profoundly affecting novel to date--a tale that, more than ever, confirms his ability as a writer of extraordinary literary power.",
+    "source": "https://www.goodreads.com/book/show/1143742.The_Painter_of_Battles"
+  },
+  {
+    "title": "North and South",
+    "author": "Elizabeth Gaskell",
+    "img": "https://images.gr-assets.com/books/1391158399l/512710.jpg",
+    "description": "When her father leaves the Church in a crisis of conscience, Margaret Hale is uprooted from her comfortable home in Hampshire to move with her family to the north of England. Initially repulsed by the ugliness of her new surroundings in the industrial town of Milton, Margaret becomes aware of the poverty and suffering of the local mill workers and develops a passionate sense of social justice. This is intensified by her tempestuous relationship with the mill-owner and self-made man, John Thornton, as their fierce opposition over his treatment of his employees masks a deeper attraction. In 'North and South', Elizabeth Gaskell skillfully fused individual feeling with social concern, and in Margaret Hale created one of the most original heroines of Victorian literature.",
+    "source": "https://www.goodreads.com/book/show/10411908-north-and-south"
+  },
+  {
+    "title": "Nemesis Games",
+    "author": "James S.A. Corey",
+    "img": "https://images.gr-assets.com/books/1407524221l/22886612.jpg",
+    "description": "A thousand worlds have opened, and the greatest land rush in human history has begun. As wave after wave of colonists leave, the power structures of the old solar system begin to buckle. Ships are disappearing without a trace. Private armies are being secretly formed. The sole remaining protomolecule sample is stolen. Terrorist attacks previously considered impossible bring the inner planets to their knees. The sins of the past are returning to exact a terrible price. And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left.",
+    "source": "https://www.goodreads.com/book/show/22886612-nemesis-games"
+  },
+  {
+    "title": "Miral",
+    "author": "Rula Jebreal",
+    "img": "https://images.gr-assets.com/books/1356142592l/8863636.jpg",
+    "description": "Written by the much-admired Italo-Palestinian journalist Rula Jebreal, Miral is a novel that focuses on remarkable women whose lives unfold in the turbulent political climate along the borders of Israel and Palestine. The story begins with Hind, a woman who sacrifices everything to establish a school for refugee Palestinian girls in East Jerusalem. Years later Miral arrives at the school after her mother commits suicide. Hind sees that Miral has the potential to change the world peacefully-but Miral is appalled by the injustice that surrounds her, and flirts with the notion of armed resistance. Hind desperately works to persuade her to stay the course of education, hard work, and non-violent resolution-but is she too late?",
+    "source": "https://www.goodreads.com/book/show/6576628-miral"
+  },
+  {
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "img": "https://images.gr-assets.com/books/1371063511l/14836.jpg",
+    "description": "Born at the stroke of midnight, at the precise moment of India's independence, Saleem Sinai is destined from birth to be special. For he is one of 1,001 children born in the midnight hour, children who all have special gifts, children with whom Saleem is telepathically linked. But there has been a terrible mix up at birth, and Saleem’s life takes some unexpected twists and turns. As he grows up amidst a whirlwind of triumphs and disasters, Saleem must learn the ominous consequences of his gift, for the course of his life is inseparably linked to that of his motherland, and his every act is mirrored and magnified in the events that shape the newborn nation of India. It is a great gift, and a terrible burden. ",
+    "source": "https://www.goodreads.com/book/show/14836.Midnight_s_Children"
+  },
+  {
+    "title": "Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "img": "https://images.gr-assets.com/books/1411013134l/8855321.jpg",
+    "description": "Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach. Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, the Scopuli, they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why. Detective Miller is looking for a girl. One girl in a system of billions, but her parents have money and money talks. When the trail leads him to the Scopuli and rebel sympathizer Holden, he realizes that this girl may be the key to everything. Holden and Miller must thread the needle between the Earth government, the Outer Planet revolutionaries, and secretive corporations - and the odds are against them. But out in the Belt, the rules are different, and one small ship can change the fate of the universe.",
+    "source": "https://www.goodreads.com/book/show/8855321-leviathan-wakes"
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "img": "https://images.gr-assets.com/books/1436217001l/9777.jpg",
+    "description": "The year is 1969. In the state of Kerala, on the southernmost tip of India, fraternal twins Esthappen and Rahel fashion a childhood for themselves in the shade of the wreck that is their family.",
+    "source": "https://www.goodreads.com/book/show/7774518-the-god-of-small-things"
+  }
+]}
